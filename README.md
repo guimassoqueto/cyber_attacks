@@ -1,5 +1,5 @@
 # cyber_attacks
-How diverse forms of system vulnerabilities to infiltrate and modify devices
+How ho use diverse forms of system vulnerabilities to infiltrate and modify devices.
 
 User domain threats
 Systems domain threats
